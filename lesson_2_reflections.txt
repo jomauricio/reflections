@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Create a .git folder to keep de conf. of thr repository
