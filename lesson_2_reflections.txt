@@ -4,4 +4,8 @@ Create a .git folder to keep de conf. of thr repository
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-I don't know
+I don't know"
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Stage the changes until you have a logical change
